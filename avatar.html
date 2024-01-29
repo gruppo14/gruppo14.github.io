@@ -11,13 +11,16 @@
 
 <body>
 
+    <button class="button">Info</button>
+
     <a-scene vr-mode-ui="enabled: false" embedded arjs>
 
         <a-marker type="pattern" url="pattern_avatar/pattern_avatar.patt">
             <a-entity
             position="0 0 0"
-            scale="0.026 0.026 0.026"
-            obj-model="obj: url(/media_avatar/avatar.obj);mtl: url(/media_avatar/avatar.mtl);"
+            scale="4 4 4"
+            obj-model="obj: url(media_avatar/avatar.obj);mtl: url(media_avatar/avatar.mtl);"
+            animation="property: rotation; dur: 6000; to: 0 360 0; loop: true; easing: linear;"
             > </a-entity>
         </a-marker>
 
