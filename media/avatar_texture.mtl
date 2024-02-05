@@ -1,0 +1,434 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl tongue01Material
+Ka 0.000000 0.000000 0.000000
+Kd 0.858824 0.525490 0.521569
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/tongue01Material.png
+
+newmtl short02
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.243137 0.203922
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/short02.png
+
+newmtl short02_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.243137 0.203922
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/short02_1_.png
+
+newmtl short02_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.243137 0.203922
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/short02_2_.png
+
+newmtl short02_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.243137 0.203922
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/short02_3_.png
+
+newmtl shoes01
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01.png
+
+newmtl shoes01_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_1_.png
+
+newmtl shoes01_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_2_.png
+
+newmtl shoes01_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_3_.png
+
+newmtl shoes01_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_4_.png
+
+newmtl shoes01_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_5_.png
+
+newmtl shoes01_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_6_.png
+
+newmtl shoes01_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_7_.png
+
+newmtl shoes01_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_8_.png
+
+newmtl shoes01_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_9_.png
+
+newmtl shoes01_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_10_.png
+
+newmtl shoes01_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_11_.png
+
+newmtl shoes01_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_12_.png
+
+newmtl shoes01_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_13_.png
+
+newmtl shoes01_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_14_.png
+
+newmtl shoes01_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_15_.png
+
+newmtl shoes01_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_16_.png
+
+newmtl shoes01_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_17_.png
+
+newmtl shoes01_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_18_.png
+
+newmtl shoes01_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_19_.png
+
+newmtl shoes01_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_20_.png
+
+newmtl shoes01_21_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_21_.png
+
+newmtl shoes01_22_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_22_.png
+
+newmtl shoes01_23_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_23_.png
+
+newmtl shoes01_24_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_24_.png
+
+newmtl shoes01_25_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_25_.png
+
+newmtl shoes01_26_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_26_.png
+
+newmtl shoes01_27_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_27_.png
+
+newmtl shoes01_28_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_28_.png
+
+newmtl shoes01_29_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_29_.png
+
+newmtl shoes01_30_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_30_.png
+
+newmtl shoes01_31_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_31_.png
+
+newmtl shoes01_32_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_32_.png
+
+newmtl shoes01_33_
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.239216 0.172549
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/shoes01_33_.png
+
+newmtl male_worksuit01
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01.png
+
+newmtl male_worksuit01_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_1_.png
+
+newmtl male_worksuit01_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_2_.png
+
+newmtl male_worksuit01_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_3_.png
+
+newmtl male_worksuit01_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_4_.png
+
+newmtl male_worksuit01_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_5_.png
+
+newmtl male_worksuit01_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_6_.png
+
+newmtl male_worksuit01_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_7_.png
+
+newmtl male_worksuit01_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_8_.png
+
+newmtl male_worksuit01_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_9_.png
+
+newmtl male_worksuit01_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_10_.png
+
+newmtl male_worksuit01_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_11_.png
+
+newmtl male_worksuit01_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_12_.png
+
+newmtl male_worksuit01_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_13_.png
+
+newmtl male_worksuit01_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_14_.png
+
+newmtl male_worksuit01_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_15_.png
+
+newmtl male_worksuit01_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_16_.png
+
+newmtl male_worksuit01_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_17_.png
+
+newmtl male_worksuit01_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_18_.png
+
+newmtl male_worksuit01_19_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_19_.png
+
+newmtl male_worksuit01_20_
+Ka 0.000000 0.000000 0.000000
+Kd 0.254902 0.337255 0.450980
+Ks 0.330000 0.330000 0.330000
+d 0.000000
+map_Kd avatar_texture/male_worksuit01_20_.png
+
+newmtl DefaultSkin
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.486275 0.376471
+Ks 0.330000 0.330000 0.330000
+
+newmtl Materiale
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.447059 0.341176
+Ks 0.330000 0.330000 0.330000
+
